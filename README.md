@@ -17,7 +17,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mahmoudibrahims/chat-with-sara.git
+   git clone https://github.com/MahmoudIbrahims/Gemini_Pro_Clone.git
    cd chat-with-sara
 
 
