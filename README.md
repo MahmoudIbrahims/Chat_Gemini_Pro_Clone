@@ -1,6 +1,6 @@
-# Chat with Sara 🔥
+# Chat With Gemini Pro 🔥
 
-Welcome to **Chat with Sara**, a cutting-edge AI-powered chatbot developed by **Mahmoud Ibrahim** using `Streamlit` and `Google's Gemini AI`. This chatbot brings a seamless and natural conversation experience, powered by state-of-the-art generative models.
+Welcome to **Chat With Gemini Pro**, a cutting-edge AI-powered chatbot developed by **Mahmoud Ibrahim** using `Streamlit` and `Google's Gemini AI`. This chatbot brings a seamless and natural conversation experience, powered by state-of-the-art generative models.
 
 ## Features
 
@@ -17,8 +17,8 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MahmoudIbrahims/Gemini_Pro_Clone.git
-   cd Gemini_Pro_Clone
+   git clone https://github.com/MahmoudIbrahims/Chat_With_Gemini_Pro.git
+   cd Chat_With_Gemini_Pro
 
 
 ![image_App](https://github.com/user-attachments/assets/06f56432-76ef-468b-92fa-eba2b33e493e)
