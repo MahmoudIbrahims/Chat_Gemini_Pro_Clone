@@ -18,7 +18,7 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MahmoudIbrahims/Gemini_Pro_Clone.git
-   cd chat-with-sara
+   cd Gemini_Pro_Clone
 
 
 ![image_App](https://github.com/user-attachments/assets/06f56432-76ef-468b-92fa-eba2b33e493e)
