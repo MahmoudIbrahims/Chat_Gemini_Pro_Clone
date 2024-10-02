@@ -1,6 +1,6 @@
-# Chat_Gemini_Pro_Clone 🔥
+# Chat Gemini Pro Clone 🔥
 
-Welcome to **Chat_Gemini_Pro_Clone**, a cutting-edge AI-powered chatbot developed by **Mahmoud Ibrahim** using `Streamlit` and `Google's Gemini AI`. This chatbot brings a seamless and natural conversation experience, powered by state-of-the-art generative models.
+Welcome to **Chat Gemini Pro Clone**, a cutting-edge AI-powered chatbot developed by **Mahmoud Ibrahim** using `Streamlit` and `Google's Gemini AI`. This chatbot brings a seamless and natural conversation experience, powered by state-of-the-art generative models.
 
 ## Features
 
